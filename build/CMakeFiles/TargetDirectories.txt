@@ -1,0 +1,3 @@
+/home/jan/Repositories/linux_training/build/CMakeFiles/program.dir
+/home/jan/Repositories/linux_training/build/CMakeFiles/edit_cache.dir
+/home/jan/Repositories/linux_training/build/CMakeFiles/rebuild_cache.dir
